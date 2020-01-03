@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/milzinas/static/css/main.d1b05096.chunk.css",
+    "main.js": "/milzinas/static/js/main.e9818323.chunk.js",
+    "main.js.map": "/milzinas/static/js/main.e9818323.chunk.js.map",
+    "runtime-main.js": "/milzinas/static/js/runtime-main.52f30527.js",
+    "runtime-main.js.map": "/milzinas/static/js/runtime-main.52f30527.js.map",
+    "static/js/2.4db4d2da.chunk.js": "/milzinas/static/js/2.4db4d2da.chunk.js",
+    "static/js/2.4db4d2da.chunk.js.map": "/milzinas/static/js/2.4db4d2da.chunk.js.map",
+    "index.html": "/milzinas/index.html",
+    "precache-manifest.869f68c212d0ab9c510dccf29bd225c9.js": "/milzinas/precache-manifest.869f68c212d0ab9c510dccf29bd225c9.js",
+    "service-worker.js": "/milzinas/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/milzinas/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4db4d2da.chunk.js.LICENSE": "/milzinas/static/js/2.4db4d2da.chunk.js.LICENSE",
+    "static/media/logo.svg": "/milzinas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f30527.js",
+    "static/js/2.4db4d2da.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e9818323.chunk.js"
+  ]
+}
